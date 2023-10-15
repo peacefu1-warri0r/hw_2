@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h2, ul, table {
+    margin: 30px;
+}
+
+
+table, tr, th, td {
+    border: solid black;
+}
+
+img {
+    width: 30px;
+    height: 20px;
+}
